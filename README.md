@@ -5,8 +5,8 @@ Coursera Machine Learning Specialization offered by University of Washington usi
 <https://www.coursera.org/account/accomplishments/specialization/certificate/L6Z7HQQJBU2A>
 
 ## Installation:
-..* Install Python 3
-..* Install turicreate using pip
+- Install Python 3
+- Install turicreate using pip
 ..* Install matplotlib for visualization
 ..* Install pandas
 ..* Install numpy
